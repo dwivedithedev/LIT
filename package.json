@@ -1,0 +1,32 @@
+{
+  "name": "svelte-parcel-talwind-starter",
+  "version": "1.0.0",
+  "description": "Svelte with Tailwind and Parcel",
+  "main": "./src/main.js",
+  "author": "codechips",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "parcel src/index.html --port 3000",
+    "build": "parcel build src/index.html --no-source-maps"
+  },
+  "browserslist": [
+    "last 1 chrome versions"
+  ],
+  "devDependencies": {
+    "eslint-plugin-svelte3": "^2.7.3",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-svelte": "^4.0.6",
+    "postcss-load-config": "^3.0.0",
+    "postcss-preset-env": "^6.7.0",
+    "prettier": "^2.1.2",
+    "prettier-plugin-svelte": "^1.4.0",
+    "svelte": "^3.29.0",
+    "tailwindcss": "^1.8.10",
+    "tailwindcss-font-inter": "^1.0.8"
+  },
+  "dependencies": {
+    "svelte-routing": "^1.4.2",
+    "svelte-share-buttons-component": "^1.2.0"
+  }
+}
