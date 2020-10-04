@@ -113,7 +113,7 @@
       <div class="text-center">
         <a href="/">
         <img src={logo} alt="Logo" />
-        <p class="text-2xl resize font-bold text-blue-400">Learning in Tech</p>
+        <h1 class="text-2xl resize font-bold text-blue-400">Learning in Tech</h1>
         </a>
       </div>
     </div>
@@ -121,7 +121,7 @@
     <div class="font-inter flex flex-grow h-auto py-4 justify-center items-center">
       <div class="textBox text-center">
         <p class="text-lg">
-          <strong>Started your journey in Tech.? Are you part of <span class="text-blue-500">#100DaysofCode</span>?
+          <strong>Started your journey in Tech.? Are you part of <span class="text-blue-400">#100DaysofCode</span>?
             <br>This stack will help you to learn specific technologies by providing FREE resources.</strong>
         </p>
       </div>
