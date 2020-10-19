@@ -103,7 +103,7 @@
       }
 
       onMount(()=>{
-        setTimeout(clearStorageUpdateContent,300000);
+        setTimeout(clearStorageUpdateContent,10000);
       })
 
     </script>
@@ -132,54 +132,54 @@
             <div class="card 1">
                 <div class="card_image"> 
                   <Router>
-                  <Link to="/AugmentedReality">
+                  <a href="/AugmentedReality">
                     <img src="https://i.imgur.com/VzDSH6Z.jpg" /> 
-                  </Link>
+                  </a>
                 </Router>
                 </div>
                 <div class="card_title text-blue-500">
-                  <Link to="/AugmentedReality">
+                  <a href="/AugmentedReality">
                     <p>Augmented Reality</p>
-                  </Link>
+                  </a>
                 </div>
             </div>
         
             <div class="card 1">
                 <div class="card_image"> 
-                  <Link to="/VirtualReality">
+                  <a href="/VirtualReality">
                     <img src="https://i.imgur.com/29SYpw0.png" /> 
-                  </Link>
+                  </a>
                 </div>
                 <div class="card_title text-blue-500">
-                    <Link to="/VirtualReality">
+                    <a href="/VirtualReality">
                     <p>Virtual Reality</p>
-                </Link>
+                </a>
                 </div>
             </div>
             
             <div class="card 1">
                 <div class="card_image"> 
-                  <Link to="/GameDevelopment">
+                  <a href="/GameDevelopment">
                     <img src="https://i.imgur.com/vYQEgYx.png" /> 
-                  </Link>
+                  </a>
                 </div>
                 <div class="card_title text-blue-500">
-                    <Link to="/GameDevelopment">
+                    <a href="/GameDevelopment">
                     <p>Game Development</p>
-                </Link>
+                </a>
                 </div>
             </div>
     
             <div class="card 1">
                 <div class="card_image"> 
-                  <Link to="/InternetofThings">
+                  <a href="/InternetofThings">
                     <img src="https://i.imgur.com/s4ibcDU.jpg" /> 
-                  </Link>
+                  </a>
                 </div>
                 <div class="card_title text-blue-500">
-                    <Link to="/InternetofThings">
+                    <a href="/InternetofThings">
                     <p>Internet of Things</p>
-                </Link>
+                </a>
                 </div>
             </div>
       </div>
@@ -190,53 +190,53 @@
       
         <div class="card 1">
           <div class="card_image"> 
-            <Link to="/MachineLearning">
+            <a href="/MachineLearning">
             <img src="https://i.imgur.com/lWk3GvR.jpg" />
-            </Link>
+            </a>
           </div>
           <div class="card_title text-blue-500">
-            <Link to="/MachineLearning">
+            <a href="/MachineLearning">
             <p>Machine Learning</p>
-            </Link>
+            </a>
           </div>
         </div>
         
         <div class="card 2">
           <div class="card_image">
-            <Link to="/DeepLearning">
+            <a href="/DeepLearning">
             <img src="https://i.imgur.com/1zydvP2.png" />
-            </Link>
+            </a>
            </div>
           <div class="card_title text-blue-500">
-            <Link to="/DeepLearning">
+            <a href="/DeepLearning">
             <p>Deep Learning</p>
-          </Link>
+          </a>
           </div>
         </div>
         
         <div class="card 3">
           <div class="card_image">
-            <Link to="/ArtificialIntelligence">
+            <a href="/ArtificialIntelligence">
             <img src="https://i.imgur.com/B0XxRQK.jpg" />
-            </Link>
+            </a>
           </div>
           <div class="card_title text-blue-500">
-            <Link to="/ArtificialIntelligence">
+            <a href="/ArtificialIntelligence">
             <p>A.I.</p>
-            </Link>
+            </a>
           </div>
         </div>
           
         <div class="card 4">
           <div class="card_image">
-            <Link to="/Blockchain">
+            <a href="/Blockchain">
             <img src="https://i.imgur.com/zpEaAmU.png" />
-            </Link>
+            </a>
             </div>
           <div class="card_title text-blue-500">
-            <Link to="/Blockchain">
+            <a href="/Blockchain">
               <p>Blockchain</p>
-            </Link>
+            </a>
           </div>
         </div>
     
@@ -247,53 +247,53 @@
       
         <div class="card 1">
           <div class="card_image">
-            <Link to="/BigData">
+            <a href="/BigData">
             <img src="https://i.imgur.com/28pCABK.png" /> 
-            </Link>
+            </a>
           </div>
           <div class="card_title text-blue-500">
-            <Link to="/BigData">
+            <a href="/BigData">
               <p>Big Data</p>
-          </Link>
+          </a>
           </div>
         </div>
         
         <div class="card 2">
           <div class="card_image">
-            <Link to="/DataScience">
+            <a href="/DataScience">
             <img src="https://i.imgur.com/PfpJprq.png" />
-            </Link>
+            </a>
             </div>
           <div class="card_title text-blue-500">
-            <Link to="/DataScience">
+            <a href="/DataScience">
             <p>Data Science</p>
-          </Link>
+          </a>
           </div>
         </div>
         
         <div class="card 3">
           <div class="card_image">
-            <Link to="/Automation">
+            <a href="/Automation">
             <img src="https://i.imgur.com/G96ou8Y.png" />
-            </Link>
+            </a>
           </div>
           <div class="card_title text-blue-500">
-            <Link to="/Automation">
+            <a href="/Automation">
             <p>Automation</p>
-          </Link>
+          </a>
           </div>
         </div>
           
         <div class="card 4">
           <div class="card_image">
-            <Link to="/Voice">
+            <a href="/Voice">
             <img src="https://i.imgur.com/VbbixtS.png" />
-            </Link>
+            </a>
             </div>
           <div class="card_title text-blue-500">
-            <Link to="/Voice">
+            <a href="/Voice">
             <p>Voice</p>
-          </Link>
+          </a>
           </div>
         </div>
       </div>

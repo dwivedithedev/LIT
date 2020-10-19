@@ -1,3 +1,6 @@
+<svelte:head>
+  <base target="_blank"/>
+</svelte:head>
 <style>
     .textBox{
       padding: 20px;
