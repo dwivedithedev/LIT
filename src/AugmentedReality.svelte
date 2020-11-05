@@ -168,7 +168,7 @@
       <div class="flex items-start px-4 py-6">
         <div class="">
             <div class="flex items-center justify-between">
-              <small class="text-xs text-gray-900 -mt-1">{cat.Type}</small>
+              <small class="inline-block py-1 px-3 rounded bg-indigo-50 text-indigo-400 text-sm font-medium tracking-widest">{cat.Type}</small>
               <!--small class="text-sm text-gray-700">22h ago</small-->
             </div>
             <!--p class="text-gray-700">Joined 12 SEP 2012. </p-->
@@ -182,10 +182,9 @@
     {/each}
   </div>
 
-  <!-- Add resource and share button-->
-  <ShareSubmit/>
-  <CTA category={name}/>
-  <div class="p-50">
-    <Footer/>
+    <!-- Add resource and share button-->
+    <ShareSubmit cat={name} />
+    <div class="p-50">
+      <Footer/>
+    </div>
   </div>
-</div>

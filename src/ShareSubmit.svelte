@@ -66,34 +66,49 @@
 }
 </style>
 <script>
+  export let cat;
   import { Router, Link, link, Route } from "svelte-routing";
   import { Email, HackerNews, Reddit, LinkedIn, Pinterest, Telegram, Tumblr, Vk, WhatsApp, Xing, Facebook, Twitter } from 'svelte-share-buttons-component';
  
  const url = window.location.href;
- let title = 'Hey everyone, Here is a resource to learn a new technology!';
+ let title = 'Hey everyone, Here is a totally free list of resources to learn '+cat;
  const desc = 'Learningin.tech is a resource for learning new technologies in your #100DaysofCode Journey. You can also join #LITcommunity for more!';
 
 </script>
-<div class="flex flex-grow justify-center items-center">
-    <div class="text-center">
-      <p class="textBox text-lg mt-2 m-5">
-        Have something to add? <span class="text-blue-700"><a href="/Suggestions">Suggest a tutorial</a>.</span>
-        <br>
-        Like this list? <button class="text-blue-700"><a href="#popup1">Share it</a>.</button>
-        <div id="popup1" class="overlay">
-          <div class="popup">
-            <span class="text-3xl resize font-bold text-blue-700">Share 💙</span>
-            <a class="close" href="#">&times;</a>
-            <div class="content">
-              <Email subject="{title}" body="{desc} {url}" />
-              <Twitter class="share-button" text="{title}" {url} />
-              <Reddit class="share-button" {title} {url} />
-              <LinkedIn class="share-button" {url} />
-              <Telegram class="share-button" text={title} {url} />
-              <Facebook class="share-button" {url} />
-              <HackerNews class="share-button" {title} {url} />
-            </div>
+<section class="text-gray-700 body-font">
+  <div class="container flex flex-wrap px-5 py-24 mx-auto items-center">
+    <div class="md:w-1/2 md:pr-12 md:py-8 md:border-r md:border-b-0 mb-10 md:mb-0 pb-10 border-b border-gray-300">
+      <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Suggest A Resource 👨‍🎓</h1>
+      <p class="leading-relaxed text-base">Do you have a resource which can be helpful to others who are learning {cat}? We would love to have you contribute it.</p>
+      <a class="text-blue-500 inline-flex items-center mt-4" href="/Suggestions">Submit Here
+        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+          <path d="M5 12h14M12 5l7 7-7 7"></path>
+        </svg>
+      </a>
+    </div>
+    <div class="flex flex-col md:w-1/2 md:pl-12">
+      <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Share This Resource 💙</h1>
+      <p class="leading-relaxed text-base">Sharing is caring . Forward this resource to a friend or colleague who you think can benefit from.</p>
+      <a class="text-blue-500 inline-flex items-center mt-4" href="#popup1">Click To Share
+        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+          <path d="M5 12h14M12 5l7 7-7 7"></path>
+        </svg>
+      </a>
+      <div id="popup1" class="overlay">
+        <div class="popup">
+          <span class="text-3xl resize font-bold text-blue-700">Share </span>
+          <a class="close" href="#">&times;</a>
+          <div class="content">
+            <Email subject="{title}" body="{desc} {url}" />
+            <Twitter class="share-button" text="{title}" {url} />
+            <Reddit class="share-button" {title} {url} />
+            <LinkedIn class="share-button" {url} />
+            <Telegram class="share-button" text={title} {url} />
+            <Facebook class="share-button" {url} />
+            <HackerNews class="share-button" {title} {url} />
           </div>
         </div>
+      </div>
     </div>
   </div>
+</section>
