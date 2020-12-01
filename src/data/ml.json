@@ -1,0 +1,53 @@
+{
+    "Sheet1": [{
+        "A": "Machine Learning Crash Course",
+        "B": "A Short, Crash Course offered by Google on Machine Learning",
+        "C": "https://developers.google.com/machine-learning/crash-course",
+        "D": "Beginner"
+    }, {
+        "A": "TensorFlow.js Crash Course",
+        "B": "Machine Learning For The Web — Getting Started",
+        "C": "https://medium.com/codingthesmartway-com-blog/tensorflow-js-crash-course-machine-learning-for-the-web-getting-started-50694a575238",
+        "D": "Beginner"
+    }, {
+        "A": "14 Different Types of Learning in Machine Learning",
+        "B": "Detailed and Thorough article on Types of Machine Learning with Resources",
+        "C": "https://machinelearningmastery.com/types-of-learning-in-machine-learning/",
+        "D": "Beginner"
+    }, {
+        "A": "Machine Learning with JavaScript : Part 1",
+        "B": "Great series of Articles with Step-by-step explanation",
+        "C": "https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5",
+        "D": "Beginner"
+    }, {
+        "A": "Hierarchical Clustering with Python and Scikit-Learn",
+        "B": "A great tutorial on Unsupervised type of Machine Learning with example",
+        "C": "https://stackabuse.com/hierarchical-clustering-with-python-and-scikit-learn/",
+        "D": "Intermediate"
+    }, {
+        "A": "Machine Learning with Python",
+        "B": "A Youtube Playlist with Practical Machine Learning Tutorials with Python",
+        "C": "https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v",
+        "D": "Intermediate"
+    }, {
+        "A": "Machine Learning (Math based) by Andrew NG",
+        "B": "A Coursera Course by the Founder himself of Machine Learning!",
+        "C": "https://www.coursera.org/learn/machine-learning",
+        "D": "Advanced"
+    }, {
+        "A": "How to Integrate Machine Learning into Web Applications with Flask",
+        "B": "Learn to Create machine learning model, Develop an Application in Flask and Deploy it",
+        "C": "https://www.analyticsvidhya.com/blog/2020/09/integrating-machine-learning-into-web-applications-with-flask/",
+        "D": "Advanced"
+    }, {
+        "A": "Machine Learning Mastery",
+        "B": "Amazing Resource for all your ML needs.",
+        "C": "https://machinelearningmastery.com/",
+        "D": "Resource"
+    }, {
+        "A": "Supervised Learning Cheatsheet",
+        "B": "A Cheatsheet Resource by Stanford on Supervised Learning",
+        "C": "https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning#",
+        "D": "Resource"
+    }]
+}

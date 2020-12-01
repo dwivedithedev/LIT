@@ -1,0 +1,48 @@
+{
+    "Sheet1": [{
+        "A": "Minecraft in WebVR with HTML Using A-Frame",
+        "B": "Short and great tutorial on how to get started with WebVR",
+        "C": "https://css-tricks.com/minecraft-webvr-html-using-frame/",
+        "D": "Beginner"
+    }, {
+        "A": "Introduction to Virtual Reality",
+        "B": "The course will teach you everything from the basics of VR- the hardware and the history of VR- to different applications of VR, the psychology of Virtual Reality, and the challenges of the medium.",
+        "C": "https://www.coursera.org/learn/introduction-virtual-reality",
+        "D": "Beginner"
+    }, {
+        "A": "Creating Virtual Reality (VR) Apps",
+        "B": "Learn the tools and techniques to develop your own professional VR app in Unity 3D.",
+        "C": "https://www.edx.org/course/creating-virtual-reality-vr-apps-2",
+        "D": "Beginner"
+    }, {
+        "A": "Unity VR Tutorials Playlist",
+        "B": "My personal playlist of Youtube videos which can really help you get started with VR.",
+        "C": "https://www.youtube.com/playlist?list=PLOKvGDNfolO_RhneT8jYAvSufHN-pvd9g",
+        "D": "Intermediate"
+    }, {
+        "A": "How to Build a VR App in Unity for Beginners",
+        "B": "Learn how to use Unity Editor to build a VR app and contents.",
+        "C": "https://maker.pro/custom/tutorial/how-to-build-a-vr-app-in-unity-for-beginners",
+        "D": "Intermediate"
+    }, {
+        "A": "Building Your First VR App in for Oculus Headset",
+        "B": "A Detailed Guide from the official documentation of Oculus.",
+        "C": "https://developer.oculus.com/documentation/unity/unity-tutorial/",
+        "D": "Intermediate"
+    }, {
+        "A": "Virtual Reality Development with Unreal Engine",
+        "B": "General Unreal Engine VR Development Resources.",
+        "C": "https://docs.unrealengine.com/en-US/Platforms/VR/index.html",
+        "D": "Advanced"
+    }, {
+        "A": "How To Build An Endless Runner Game In Virtual Reality (Part 1)",
+        "B": "A great and detailed guide to creating a web based playable VR game.",
+        "C": "https://www.smashingmagazine.com/2019/03/virtual-reality-endless-runner-game-vr-part-1/",
+        "D": "Advanced"
+    }, {
+        "A": "Build a Multiplayer Browser-based VR Game with A-Frame, PubNub, and WebVR",
+        "B": "How to create a multiplayer VR bowling game for Google Cardboard with A-Frame, WebVR, Glitch, and PubNub.",
+        "C": "https://www.pubnub.com/blog/build-multiplayer-browser-based-vr-game-aframe-webvr/",
+        "D": "Advanced"
+    }]
+}

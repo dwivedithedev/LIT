@@ -35,7 +35,7 @@ export let category;
         Join #LITcommunity to Meet, Share and Chill with amazing learners from around the world.
       </p>
       <div class="mt-4">
-      <button class="shiny-btn"><a href="https://discord.gg/A2jejy2"><img src="https://discord.com/assets/e7a3b51fdac2aa5ec71975d257d5c405.png" width="128px" height="64px" /></a></button>
+      <button class="shiny-btn"><a href=""><img src="https://discord.com/assets/e7a3b51fdac2aa5ec71975d257d5c405.png" width="128px" height="64px" /></a></button>
       </div>
     </div>
   </div>

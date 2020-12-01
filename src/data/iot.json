@@ -1,0 +1,48 @@
+{
+    "Sheet1": [{
+        "A": "An Introduction to Programming the Internet of Things (IOT) Specialization",
+        "B": "Programming based Coursera course which is free.",
+        "C": "https://www.coursera.org/specializations/iot",
+        "D": "Beginner"
+    }, {
+        "A": "Introduction to Internet of Things",
+        "B": "Learn IOT for free from experts of Indian Institute of Technology Kharagpur which is recognised as an Institute of National Importance.",
+        "C": "https://nptel.ac.in/courses/106/105/106105166/",
+        "D": "Beginner"
+    }, {
+        "A": "Arduino Projects | Full Tutorial",
+        "B": "A Youtube Playlist with easy to understand and implementable tutorials",
+        "C": "https://www.youtube.com/playlist?list=PLKASro0L7R2XA4I8bJpARx9vq9hSyos7l",
+        "D": "Beginner"
+    }, {
+        "A": "Wifi based home automation system over cloud using Arduino",
+        "B": "Short and Detailed Tutorial. The website in itself offers great guides on Arduino.",
+        "C": "https://microcontrollerslab.com/iot-based-home-automation-system-wifi/",
+        "D": "Beginner"
+    }, {
+        "A": "Home Automation Using Google Assistant",
+        "B": "This includes creating Adafruit account then linking to IFTTT website then adding to Google Assistant for voice commands.",
+        "C": "https://www.hackster.io/pawan-kumar3/home-automation-using-google-assistant-88c5c8",
+        "D": "Intermediate"
+    }, {
+        "A": "MQTT for Beginners Tutorials and Course",
+        "B": "This is a collection of tutorials arranged as a course and is for complete beginners wanting to understand the fundamentals of the MQTT protocol and how to use it in IOT Projects.",
+        "C": "http://www.steves-internet-guide.com/mqtt-basics-course/",
+        "D": "Intermediate"
+    }, {
+        "A": "Beginners Guide To The MQTT Protocol",
+        "B": "Learn about MQTT which is a communication protocol used in IOT",
+        "C": "http://www.steves-internet-guide.com/mqtt/",
+        "D": "Intermediate"
+    }, {
+        "A": "200+ Electronics Projects and Tutorials",
+        "B": "A Detailed list of Arduino, Raspberry Pi, ESP Tutorials",
+        "C": "https://randomnerdtutorials.com/projects/#home-automation",
+        "D": "Resource"
+    }, {
+        "A": "Steve's Internet Guide",
+        "B": "Steve has great guides on how to build IOT systems using Node-Red and MQTT",
+        "C": "http://www.steves-internet-guide.com/",
+        "D": "Resource"
+    }]
+}

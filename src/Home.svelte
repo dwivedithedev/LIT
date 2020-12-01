@@ -94,17 +94,9 @@
     <script>
         //both Link and link are different
       import { Router, Link, link, Route } from "svelte-routing";
+      
       import Footer from './Footer.svelte';
       import logo from './img/logo.png';
-      import { onMount } from 'svelte';
-
-      function clearStorageUpdateContent(){
-        localStorage.clear();
-      }
-
-      onMount(()=>{
-        setTimeout(clearStorageUpdateContent,10000);
-      })
 
     </script>
     <div ondragstart="return false">
@@ -113,7 +105,6 @@
       <div class="text-center">
         <a href="/">
         <img src={logo} alt="Logo" />
-        <h1 class="text-2xl resize font-bold text-blue-400">Learning in Tech</h1>
         </a>
       </div>
     </div>
@@ -121,7 +112,7 @@
     <div class="font-inter flex flex-grow h-auto py-4 justify-center items-center">
       <div class="textBox text-center">
         <p class="text-lg">
-          <strong>Started your journey in Tech.? Are you part of <span class="text-blue-400">#100DaysofCode</span>?
+          <strong>Started your journey in Tech.? Are you part of <span class="text-blue-500">#100DaysofCode</span>?
             <br>This stack will help you to learn specific technologies by providing FREE resources.</strong>
         </p>
       </div>
@@ -298,7 +289,7 @@
         </div>
       </div>
 
-      <div class="font-inter flex flex-grow h-screen px-10 justify-center items-center">
+      <!--<div class="font-inter flex flex-grow h-screen px-10 justify-center items-center">
         <div class="text-center">
           <p class="sm:text-5xl md:text-5xl lg:text-5xl xl:text-5xl font-bold text-blue-400">Learn with the #LITCommunity</p>
           <p class="sm:text-xl md:text-xl lg:text-2xl xl:text-2xl font-bold mt-4 mx-4">
@@ -308,7 +299,7 @@
           <button class="shiny-btn"><a href="https://discord.gg/A2jejy2"><img src="https://discord.com/assets/e7a3b51fdac2aa5ec71975d257d5c405.png" width="128px" height="64px" /></a></button>
           </div>
         </div>
-      </div>
+      </div>-->
     
     
     

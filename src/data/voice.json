@@ -1,0 +1,63 @@
+{
+    "Sheet1": [{
+        "A": "Learn to Program Alexa",
+        "B": "This tutorial guide from Codecademy offers great way to get started with basics of alexa skill development.",
+        "C": "https://www.codecademy.com/learn/learn-alexa",
+        "D": "Beginner"
+    }, {
+        "A": "How to Build a Hello World Alexa Skill",
+        "B": "Learn how to create a Hello World Alexa Skill in this tutorial by Madhur Bhargava, a specialist in various mobile/embedded technologies.",
+        "C": "https://tutorials.botsfloor.com/how-to-build-a-hello-world-alexa-skill-bcea0d01ee8f",
+        "D": "Beginner"
+    }, {
+        "A": "Build a Conversational Action for Google Assistant",
+        "B": "The official how-to tutorial of getting started with Google Assistant.",
+        "C": "https://codelabs.developers.google.com/codelabs/actions-1/#0",
+        "D": "Beginner"
+    }, {
+        "A": "Alexa Skill Development Tutorials",
+        "B": "A Youtube Playlist collection of tutorials to help you master Alexa skill development. These tutorials are updated regularly and cover beginner, intermediate, and advanced topics.",
+        "C": "https://www.youtube.com/playlist?list=PLQm9P1qjjvxve36zlBLZ8i2_fhMjdgN0r",
+        "D": "Beginner"
+    }, {
+        "A": "Building an Interactive Voice App Using Custom Siri Shortcuts in iOS 12",
+        "B": "A simple example on how we can use Siri Shortcut to perform search on upcoming movies using The Movie DB API, then display the result using custom Intent UI Extension.",
+        "C": "https://medium.com/appcoda-tutorials/building-custom-siri-shortcut-intent-ui-extension-to-display-remote-data-alfian-losari-efe891a44a70",
+        "D": "Intermediate"
+    }, {
+        "A": "Home Automation Using Google Assistant",
+        "B": "This includes creating Adafruit account then linking to IFTTT website then adding to Google Assistant for voice commands.",
+        "C": "https://www.hackster.io/pawan-kumar3/home-automation-using-google-assistant-88c5c8",
+        "D": "Intermediate"
+    }, {
+        "A": "Automation of Lights and Fan using Google Assistant and Bolt",
+        "B": "Voice control your fan and lights using Google Assistant.",
+        "C": "https://www.hackster.io/kraishwary16/automation-of-lights-and-fan-using-google-assistant-and-bolt-aa7c00",
+        "D": "Intermediate"
+    }, {
+        "A": "How to use VOSK API to do offline speech recognition with Python!",
+        "B": "It shows you how can you use vosk to do a simple speech recognition with python.",
+        "C": "https://www.youtube.com/watch?v=Itic1lFc4Gg",
+        "D": "Intermediate"
+    }, {
+        "A": "The Top 169 Speech Recognition Open Source Projects",
+        "B": "This is a list of open source projects but they dive in regards with Machine Learning",
+        "C": "https://awesomeopensource.com/projects/speech-recognition",
+        "D": "Advanced"
+    }, {
+        "A": "Sonus",
+        "B": "(speech to text) for Node.js with offline hotword detection.",
+        "C": "https://github.com/evancohen/sonus",
+        "D": "Advanced"
+    }, {
+        "A": "Rhasspy Voice Assistant",
+        "B": "Open source, fully offline set of voice assistant services that works well with Home Assistant, Node-RED, MQTT and more.",
+        "C": "https://rhasspy.readthedocs.io/en/latest/#learn-more",
+        "D": "Advanced"
+    }, {
+        "A": "awesome-speech-recognition-speech-synthesis-papers",
+        "B": "automatic speech recognition/speech synthesis paper roadmap, including HMM, DNN, RNN, CNN, Seq2Seq, Attention",
+        "C": "https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers#Music-Modelling",
+        "D": "Advanced"
+    }]
+}

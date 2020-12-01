@@ -1,0 +1,58 @@
+{
+    "Sheet1": [{
+        "A": "The Ultimate Beginners Guide To Game Development In Unity",
+        "B": "The Ultimate Beginners Guide To Game Development In Unity",
+        "C": "https://www.freecodecamp.org/news/the-ultimate-beginners-guide-to-game-development-in-unity-f9bfe972c2b5/",
+        "D": "Beginner"
+    }, {
+        "A": "Playground: Getting Started in Unity",
+        "B": "Unity's Documentation on Building Your First Game",
+        "C": "https://learn.unity.com/tutorial/playground-getting-started",
+        "D": "Beginner"
+    }, {
+        "A": "Introduction To Game Engineering",
+        "B": "Learn the basics of Game Development using Unity",
+        "C": "https://www.studytonight.com/3d-game-engineering-with-unity/introduction",
+        "D": "Beginner"
+    }, {
+        "A": "Learning Game Design",
+        "B": "A Youtube Playlist which teaches you Game Design",
+        "C": "https://www.youtube.com/playlist?list=PLPV2KyIb3jR5kPzHBi90byfhPfPqaDW9s",
+        "D": "Intermediate"
+    }, {
+        "A": "How to make a Survival Game - Unity Course",
+        "B": "A Youtube Playlist based on Game Development with Unity",
+        "C": "https://www.youtube.com/playlist?list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk",
+        "D": "Intermediate"
+    }, {
+        "A": "Game Design and Development Specialization",
+        "B": "A Free Coursera Course on Game Design",
+        "C": "https://www.coursera.org/specializations/game-development",
+        "D": "Intermediate"
+    }, {
+        "A": "How to Build a Complete 2D Platformer in Unity",
+        "B": "Detailed and Thorough guide to get you started.",
+        "C": "https://gamedevacademy.org/how-to-build-a-complete-2d-platformer-in-unity/",
+        "D": "Intermediate"
+    }, {
+        "A": "Unreal Engine 2D Game Development Tutorial Series",
+        "B": "Unreal Engine is also an amazing tool to get started in 3D Development",
+        "C": "https://gamefromscratch.com/unreal-engine-2d-game-development-tutorial-series/",
+        "D": "Intermediate"
+    }, {
+        "A": "50 Sites to Download Free 3D Models",
+        "B": "Another great resource for 3D Models.",
+        "C": "https://www.hongkiat.com/blog/60-excellent-free-3d-model-websites/",
+        "D": "Resource"
+    }, {
+        "A": "r/gamedev (Reddit)",
+        "B": "A great wiki for almost every resource you need in game development",
+        "C": "https://www.reddit.com/r/gamedev/wiki/resources#wiki_tools",
+        "D": "Resource"
+    }, {
+        "A": "Textures",
+        "B": "Textures for 3D, 2D, Graphic Design",
+        "C": "https://www.textures.com/",
+        "D": "Resource"
+    }]
+}

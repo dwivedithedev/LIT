@@ -1,0 +1,53 @@
+{
+    "Sheet1": [{
+        "A": "Deep Learning Tutorial for Beginners",
+        "B": "Detailed guide with practicals of topics covered for you to dive \"deep\" into Deep Learning.",
+        "C": "https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners",
+        "D": "Beginner"
+    }, {
+        "A": "25 Must Know Terms & concepts for Beginners in Deep Learning",
+        "B": "Understand the common terms for you to get started in Deep Learning",
+        "C": "https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/",
+        "D": "Beginner"
+    }, {
+        "A": "A Beginners Guide to Deep Learning",
+        "B": "A visual based blog post covering the basics of Deep Learning",
+        "C": "https://medium.com/botsupply/a-beginners-guide-to-deep-learning-5ee814cf7706",
+        "D": "Beginner"
+    }, {
+        "A": "Practical Deep Learning for Coders",
+        "B": "Lots of lessons and a very thorough guide to concepts in Deep Learning",
+        "C": "https://course.fast.ai/",
+        "D": "Intermediate"
+    }, {
+        "A": "A practical guide to Deep Learning in 6 months",
+        "B": "This post will give you a detailed roadmap to learn Deep Learning within 6 months.",
+        "C": "https://blog.paperspace.com/a-practical-guide-to-deep-learning-in-6-months/",
+        "D": "Intermediate"
+    }, {
+        "A": "Keras tutorial: Practical guide from getting started to developing complex deep neural network",
+        "B": "This tutorial assumes that you are slightly familiar convolutional neural networks.",
+        "C": "https://cv-tricks.com/tensorflow-tutorial/keras/",
+        "D": "Advanced"
+    }, {
+        "A": "Using convolutional neural nets to detect facial keypoints tutorial",
+        "B": "This is a hands-on tutorial on deep learning. Step by step, Building a solution for the Facial Keypoint Detection Kaggle challenge.",
+        "C": "http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/",
+        "D": "Advanced"
+    }, {
+        "A": "CS 230 ― Deep Learning",
+        "B": "Set of illustrated Deep Learning cheatsheets covering the content of the CS 230 class, taught at Stanford University.",
+        "C": "https://stanford.edu/~shervine/teaching/cs-230/",
+        "D": "Resource"
+    }, {
+        "A": "Making neural nets uncool again",
+        "B": "My favourite and hands down the best resource to dive into DL, ML, Neural Networks.",
+        "C": "https://www.fast.ai/",
+        "D": "Resource"
+    }, {
+        "A": "Awesome Deep Learning",
+        "B": "Resource of resources about everything Deep Learning",
+        "C": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+        "D": "Resource"
+    }]
+}

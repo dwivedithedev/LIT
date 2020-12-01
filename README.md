@@ -1,30 +1,58 @@
 
-## Getting started
+<p align="center">
+  <a href="https://learningin.tech/">
+    <img src="https://learningin.tech/logo.c5310d87.png" alt="LIT logo" width="300" />
+  </a>
+</p>
 
+<h1 align="center">Resource of Resources to Learn New Technologies 💙</h1>
+
+<br />
+
+LearningIn.Tech is an open source project made for and by learners in tech. world whose aim is to build a resource of the best, high quality and free resources to learn new technologies. All of the resources listed here handpicked & curated by humans.
+
+## Features ✨
+
+1. Choose from upto **8+** categories. Full list below.
+2. Choose from 3 levels of resources. **Beginner**,**Intermediate** or **Advanced**.
+3. Start learning! 
+
+
+## List of Categories
+- Augmented Reality
+- Virtual Reality
+- Game Development
+- Internet of Things
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Blockchain
+- Big Data
+- Data Science
+- Automation
+- Voice (Speech Recognition)
+
+Have a better resource? You can also contribute to one of these categories.
+
+## How to contribute?
+- Make a pull request
+- Open the `data` folder and choose the category in which you want to contribute.
+- Add your resource in the following part, AT THE END OF THE DOCUMENT,
 ```
-# create new project
-$ npx degit codechips/svelte-tailwind-parcel-starter facebook-killer
-$ cd facebook-killer
-
-# install required packages
-$ yarn
-
-# run the app
-$ yarn start
-
-# build the app
-$ yarn build
-
-# I have removed this line from package.json so that git init doesnt go - "rm -rf dist && ..."
+A: <Name of your resource>
+B: <Short one-liner description about the resource>
+C: <Link to the resource>
+D: KDifficulty level, Beginner, Intermediate or Advanced>
 ```
+- Submit your pull request. That's it! 🥳
 
-## Made with svelte-tailwind-parcel-starter
 
-Svelte.js starter pack with [Yarn](https://yarnpkg.com/),
-[Tailwind](https://tailwindcss.com/) and [Parcel](https://parceljs.org/). Yummy mummy!
+## Support the project
+By supporting, we can make the project more accessible to people. We'll really appreciate any kind of support. 
 
-The starter pack also includes
-[tailwindcss-font-inter](https://github.com/semencov/tailwindcss-font-inter)
-plugin for Tailwind plus Prettier and Eslint plugins with opinionated settings.
+## Supporters 
+- Be the first one!
 
-This is the code for my article [Svelte + Tailwind + Parcel = Awesome!](https://codechips.me/svelte-tailwind-parcel-awesome/).
+<br />
+
+For anything else, Please feel free to reach out to me on [Twitter](https://twitter.com/vaibhavThevedi).

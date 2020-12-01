@@ -1,0 +1,53 @@
+{
+    "Sheet1": [{
+        "A": "The Ultimate Guide to Getting Started in Data Science",
+        "B": "How I started getting data science job offers in under 6 months.",
+        "C": "https://towardsdatascience.com/the-ultimate-guide-to-getting-started-in-data-science-234149684ef7",
+        "D": "Beginner"
+    }, {
+        "A": "Python for Data Science",
+        "B": "Learn to use powerful, open-source, Python tools, including Pandas, Git and Matplotlib, to manipulate, analyze, and visualize complex datasets.",
+        "C": "https://www.edx.org/course/python-for-data-science-2",
+        "D": "Beginner"
+    }, {
+        "A": "What is Data Science?",
+        "B": "A coursera course for Data Science, intended for beginners, by IBM.",
+        "C": "https://www.coursera.org/learn/what-is-datascience?",
+        "D": "Beginner"
+    }, {
+        "A": "Data Science: R Basics",
+        "B": "It covers concepts like probability, inference, regression, ML, R programming, data wrangling with dplyr, data visualization with ggplot2, file organization with UNIX/Linux, version control with git and GitHub, and reproducible document preparation with RStudio.",
+        "C": "https://www.edx.org/course/data-science-r-basics",
+        "D": "Beginner"
+    }, {
+        "A": "LeaRning Path on R – Step by Step Guide to Learn Data Science on R",
+        "B": "A step by step covering of topics to help you get started with R.",
+        "C": "https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-r-data-science/",
+        "D": "Intermediate"
+    }, {
+        "A": "Data Science Full Course For Beginners | Python Data Science Tutorial",
+        "B": "This is a full data science course that any beginner (not having computer science background) can follow to learn data science.",
+        "C": "https://www.youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV",
+        "D": "Intermediate"
+    }, {
+        "A": "Text Mining in Python: Steps and Examples",
+        "B": "A practical tutorial of Text Mining with Python.",
+        "C": "https://towardsai.net/p/data-mining/text-mining-in-python-steps-and-examples-78b3f8fd913b",
+        "D": "Intermediate"
+    }, {
+        "A": "Learn JS Data",
+        "B": "This guide teaches the basics of manipulating data using JavaScript in the browser, or in node.js. Specifically, these tasks are geared around preparing data for further analysis and visualization.",
+        "C": "http://learnjsdata.com/",
+        "D": "Intermediate"
+    }, {
+        "A": "Awesome Data Science",
+        "B": "A resource of resources of everything related to Data Science.",
+        "C": "https://github.com/academic/awesome-datascience",
+        "D": "Resource"
+    }, {
+        "A": "Welcome to Data Analysis in Python!",
+        "B": "This site is designed to offer an introduction to Python specifically tailored for social scientists and people doing applied data analysis – users with little or no serious programming experience.",
+        "C": "http://www.data-analysis-in-python.org/",
+        "D": "Resource"
+    }]
+}

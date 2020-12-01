@@ -1,0 +1,33 @@
+{
+    "Sheet1": [{
+        "A": "Introduction to Big Data",
+        "B": "An Introductory course on Big Data offered by Coursera.",
+        "C": "https://www.coursera.org/learn/big-data-introduction",
+        "D": "Beginner"
+    }, {
+        "A": "Hadoop Tutorial:Ultimate Guide to Learn Big Data Hadoop 2020",
+        "B": "This guide covers all the essential terms you need to know with Big Data Hadoop.",
+        "C": "https://www.upgrad.com/blog/big-data-hadoop-tutorial/",
+        "D": "Beginner"
+    }, {
+        "A": "Getting Started with Hadoop",
+        "B": "Big Data Hadoop Tutorial for Beginners- Hadoop Installation",
+        "C": "https://www.dezyre.com/hadoop-tutorial/big-data-hadoop-tutorial",
+        "D": "Beginner"
+    }, {
+        "A": "Big Data Hadoop Tutorial Videos | Simplilearn",
+        "B": "A Youtube Playlist with Almost everything covered. Warning: Lengthy Tutorials. Check Comment for Timestamps.",
+        "C": "https://www.youtube.com/playlist?list=PLEiEAq2VkUUJqp1k-g5W1mo37urJQOdCZ",
+        "D": "Beginner"
+    }, {
+        "A": "An Introduction to Big Data: NoSQL",
+        "B": "A thorough introduction to NoSQL in context to Big Data.",
+        "C": "https://medium.com/cracking-the-data-science-interview/an-introduction-to-big-data-nosql-96b882f35e50",
+        "D": "Intermediate"
+    }, {
+        "A": "Awesome Big Data",
+        "B": "A resource of resources for everything about Big Data.",
+        "C": "https://github.com/onurakpolat/awesome-bigdata",
+        "D": "Resource"
+    }]
+}

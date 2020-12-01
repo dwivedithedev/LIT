@@ -51,74 +51,32 @@
           }
   </style>
   <script>
-      import Footer from './Footer.svelte';
-      import CTA from './CTA.svelte';
-      import ShareSubmit from './ShareSubmit.svelte';
-      import {link} from 'svelte-routing';
-      import { onMount } from 'svelte';
-  
-      import loader from './loader.svg';
-    
-    let resources = [];
-    let name="Machine Learning";
-    let api = "https://api.apispreadsheets.com/data/1553/";
+  import Footer from './Footer.svelte';
+  import CTA from './CTA.svelte';
+  import ShareSubmit from './ShareSubmit.svelte';
+  import {link} from 'svelte-routing';
+  import { onMount } from 'svelte';
 
-    let ass = [];
+  import localapi from './data/ml.json';
+  let resources = localapi["Sheet1"];
+
+  let name="Machine Learning";
+
   let resBeginners = [];
   let resIntermediate = [];
   let resAdvanced = [];
+
   function filtering(){
     
     let filters=["Beginner","Intermediate","Advanced"]
-    resBeginners = resources.filter( i => filters[0].includes( i.Type ) );
-    resIntermediate = resources.filter( i => filters[1].includes( i.Type ) );
-    resAdvanced = resources.filter( i => filters[2].includes( i.Type ) );
+    resBeginners = localapi.Sheet1.filter( i => filters[0].includes( i.D ) );
+    resIntermediate = localapi.Sheet1.filter( i => filters[1].includes( i.D ) );
+    resAdvanced = localapi.Sheet1.filter( i => filters[2].includes( i.D ) );
 }
 
-function apiCall(){
-fetch(api).then(res=>{
- if (res.status === 200){
-  let x = document.getElementById('loader');
-  x = document.getElementById('loader');
-  x.style.display = "none";
-  // SUCCESS
-  res.json().then(data=>{
-    let yourData = data.data;
-    ass = Object.values(yourData)
-    localStorage.setItem("gninraelenihcam", JSON.stringify(ass));
-    resources = JSON.parse(localStorage.getItem("gninraelenihcam"));
-
-    //creating variables for filtering
-    filtering()
-
-    //console.log("localStorage created")
-  }).catch(err => console.log(err))
-}
-else{
-  // ERROR
-  }
-  })
-  }
 
   onMount(()=>{
-  console.log("onmount");
-  let x = document.getElementById('loader');
-  x.style.display = "block";
-
-  if (localStorage.getItem("gninraelenihcam") === null) {
-  // we will make the API call and store it in localstorage.
-  apiCall();
-  }
-  else {
-    let x = document.getElementById('loader');
-    x.style.display = "none";
-    //console.log("localStorage already exists")
-    resources = JSON.parse(localStorage.getItem("gninraelenihcam"));
-
-    //creating variables for filtering
     filtering()
-  }
-
 });
 
   
@@ -144,19 +102,10 @@ else{
             <button class="bg-yellow hover:bg-yellow-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow" on:click={()=>{ resources = resAdvanced }}>
               Advanced
             </button>
-            <button class="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow" on:click={()=>{ resources = JSON.parse(localStorage.getItem("gninraelenihcam")); }}>
+            <button class="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow" on:click={()=>{ resources = localapi['Sheet1'] }}>
               All
             </button>
           </div>
-      </div>
-  
-      <!-- Resources Component
-      TODO:- THINK OF HOW TO DISPLAY RESOURCES, WHEN YOU ADD RESOURCES IN THIS AND FINALISE IT, THEN ONLY COPY PASTE THIS FOR OTHER CATEGORIES
-      -->
-      <div class="flex flex-grow justify-center items-center">
-        <div class="text-center">
-          <img id="loader" src={loader} />
-        </div>
       </div>
      
       <div id="content">
@@ -165,14 +114,14 @@ else{
         <div class="flex items-start px-4 py-6">
           <div class="">
               <div class="flex items-center justify-between">
-                <small class="inline-block py-1 px-3 rounded bg-indigo-50 text-indigo-400 text-sm font-medium tracking-widest">{cat.Type}</small>
+                <small class="inline-block py-1 px-3 rounded bg-indigo-50 text-indigo-400 text-sm font-medium tracking-widest">{cat.D}</small>
                 <!--small class="text-sm text-gray-700">22h ago</small-->
               </div>
               <!--p class="text-gray-700">Joined 12 SEP 2012. </p-->
-              <h2 class="mt-3 font-semibold text-blue-700 text-lg"><a href={cat.Link}>
-                {cat.Name}
+              <h2 class="mt-3 font-semibold text-blue-700 text-lg"><a href={cat.C}>
+                {cat.A}
               </a></h2>
-              <p>{cat.Description}</p>
+              <p>{cat.B}</p>
           </div>
         </div>
       </div>

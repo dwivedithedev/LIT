@@ -1,0 +1,73 @@
+{
+    "Sheet1": [{
+        "A": "Google's resource for Artificial Intelligence",
+        "B": "The official website of Google for Artificial Intelligence consists of lots of good information.",
+        "C": "https://ai.google/education/",
+        "D": "Beginner"
+    }, {
+        "A": "Get started with artificial intelligence",
+        "B": "IBM also offers great amount of tutorials for learning AI.",
+        "C": "https://developer.ibm.com/technologies/artificial-intelligence/tutorials/",
+        "D": "Beginner"
+    }, {
+        "A": "Learn Artificial Intelligence by MIT Open Courseware",
+        "B": "This course introduces students to the basic knowledge representation, problem solving, and learning methods of artificial intelligence.",
+        "C": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/#",
+        "D": "Beginner"
+    }, {
+        "A": "UC Berkeley CS188 Intro to AI",
+        "B": "One of the very thorough resource. It consists of set of lecture videos.",
+        "C": "http://ai.berkeley.edu/lecture_videos.html",
+        "D": "Beginner"
+    }, {
+        "A": "AI For Everyone",
+        "B": "Coursera course which covers Introduction, Building AI in projects, in your company and a lot more.",
+        "C": "https://www.coursera.org/learn/ai-for-everyone",
+        "D": "Beginner"
+    }, {
+        "A": "Coding a Jarvis AI Using Python 3 For Beginners",
+        "B": "A great video tutorial which helps you to build an AI. The code has also been provided.",
+        "C": "https://www.youtube.com/watch?v=NZMTWBpLUa4",
+        "D": "Intermediate"
+    }, {
+        "A": "Neural Networks and Deep Learning",
+        "B": "Neural Networks and Deep Learning is a free online book. This book will teach you many of the core concepts behind neural networks and deep learning.",
+        "C": "http://neuralnetworksanddeeplearning.com/",
+        "D": "Intermediate"
+    }, {
+        "A": "Face and hand tracking in the browser with MediaPipe and TensorFlow.js",
+        "B": "A step-by-step code-along tutorial by Official Tensorflow Blog.",
+        "C": "https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html",
+        "D": "Intermediate"
+    }, {
+        "A": "Facial Recognition System with JavaScript",
+        "B": "This is a short tutorial on how to build a facial recognition system with JavaScript, using faceapi.js built on Tensorflow.js",
+        "C": "https://heartbeat.fritz.ai/facial-recognition-system-with-javascript-f9659c381434",
+        "D": "Intermediate"
+    }, {
+        "A": "Ultimate Guide to Understand and Implement Natural Language Processing (with codes in Python)",
+        "B": "Complete guide on natural language processing (NLP) in Python. Learn various techniques for implementing NLP including parsing & text processing. Understand how to use NLP for text feature engineering",
+        "C": "https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/",
+        "D": "Advanced"
+    }, {
+        "A": "Optimizing Face Detection on your browser with Tensorflow.js",
+        "B": "A browser based face detector is just what you need.",
+        "C": "https://towardsdatascience.com/face-detection-on-the-browser-with-tensorflow-js-27846a5fe954",
+        "D": "Advanced"
+    }, {
+        "A": "Awesome Artificial Intelligence (AI)",
+        "B": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+        "C": "https://github.com/owainlewis/awesome-artificial-intelligence",
+        "D": "Resource"
+    }, {
+        "A": "TensorFlow Tutorials",
+        "B": "These tutorials are intended for beginners in Deep Learning and TensorFlow.",
+        "C": "https://github.com/Hvass-Labs/TensorFlow-Tutorials",
+        "D": "Resource"
+    }, {
+        "A": "Top AI Resources – Directory for Remote Learning",
+        "B": "Resource of Resources about Artificial Intelligence.",
+        "C": "https://www.kdnuggets.com/2020/03/top-ai-resources-remote-learning.html",
+        "D": "Resource"
+    }]
+}

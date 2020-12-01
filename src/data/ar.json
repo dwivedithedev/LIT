@@ -1,0 +1,58 @@
+{
+    "Sheet1": [{
+        "A": "Web-Powered Augmented Reality: a Hands-On Tutorial",
+        "B": "A very easy tutorial on how to get started with AR",
+        "C": "https://medium.com/@urish/web-powered-augmented-reality-a-hands-on-tutorial-9e6a882e323e",
+        "D": "Beginner"
+    }, {
+        "A": "Complete AR Course with Unity and Vuforia",
+        "B": "A Youtube Playlist which teaches you Augmented Reality with Unity & Vuforia.",
+        "C": "https://www.youtube.com/playlist?list=PLb1h4A0yB97_TeFuf9TAEah3b-VyIYzF9",
+        "D": "Beginner"
+    }, {
+        "A": "Introduction to Augmented Reality and ARCore",
+        "B": "This class will teach you the fundamentals of augmented reality (AR), and how to build an AR experience using ARCore.",
+        "C": "https://www.coursera.org/learn/ar",
+        "D": "Beginner"
+    }, {
+        "A": "AR (Augmented Reality) & Video Streaming Services Emerging Technologies",
+        "B": "Learn Augmented Reality and Internet-of-Things in this course.",
+        "C": "https://www.coursera.org/learn/ar-technologies-video-streaming",
+        "D": "Beginner"
+    }, {
+        "A": "AR.js - Augmented Reality on the Web",
+        "B": "A Javascript Library which helps you to make AR experiences on the web!",
+        "C": "https://github.com/AR-js-org/AR.js",
+        "D": "Intermediate"
+    }, {
+        "A": "Introduction to Mobile Augmented Reality Development in Unity",
+        "B": "This lesson serves as an introduction to creating mobile augmented reality applications.",
+        "C": "https://programminghistorian.org/en/lessons/retired/intro-to-augmented-reality-with-unity",
+        "D": "Intermediate"
+    }, {
+        "A": "How to Make an AR Game Using Vuforia",
+        "B": "Short and simple, Step-by-step tutorial on making an AR Game using Vuforia.",
+        "C": "https://www.raywenderlich.com/6120-how-to-make-an-ar-game-using-vuforia",
+        "D": "Intermediate"
+    }, {
+        "A": "How to create your own Instagram AR Filter",
+        "B": "This step-by-step guide will help you get started with Instagram's Spark AR Studio",
+        "C": "https://blog.hootsuite.com/instagram-ar-filters/",
+        "D": "Intermediate"
+    }, {
+        "A": "SNAPCHAT: CREATING CUSTOM AR LENSES",
+        "B": "A very simplified guide to get started with Custom AR Lense creation in Snapchat",
+        "C": "https://maxvanleeuwen.com/project/lens-studio-tutorial/",
+        "D": "Intermediate"
+    }, {
+        "A": "How to build an interactive AR app in 5 mins w/ React Native & Viro AR",
+        "B": "This tutorial requires basic knowledge of React Native",
+        "C": "https://blog.viromedia.com/how-to-build-an-interactive-ar-app-in-5-mins-w-react-native-viro-ar-e420147e1612",
+        "D": "Intermediate"
+    }, {
+        "A": "Advanced Augmented Reality Tutorials by Matthew Hallberg",
+        "B": "If you are looking for building complex applications, Matthew's channel has great videos to check out.",
+        "C": "https://www.youtube.com/playlist?list=PLmE2ibStnoYrOdD-hGrNMRyPD5xIU1Xc1",
+        "D": "Advanced"
+    }]
+}

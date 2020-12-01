@@ -1,0 +1,58 @@
+{
+    "Sheet1": [{
+        "A": "Get started with blockchain",
+        "B": "Explore the basics of blockchain and get started building a solid foundation.",
+        "C": "https://medium.com/@lennartfr/getting-started-with-blockchain-what-are-the-steps-and-the-pitfalls-db07d69bad6d",
+        "D": "Beginner"
+    }, {
+        "A": "Blockchain Specialization",
+        "B": "A course offered by Coursera on concept of Blockchain.",
+        "C": "https://www.coursera.org/specializations/blockchain",
+        "D": "Beginner"
+    }, {
+        "A": "Beginners Guide to Blockchain: Getting started in Blockchain Development",
+        "B": "A very comprehensive introduction to Blockchain and the development.",
+        "C": "https://www.intuz.com/blockchain-development-guide",
+        "D": "Beginner"
+    }, {
+        "A": "Creating Your First Blockchain with Java. Part 1.",
+        "B": "The aim of this tutorial series, is to help you understand blockchain technology by developing one.",
+        "C": "https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa",
+        "D": "Beginner"
+    }, {
+        "A": "Code your own blockchain in less than 200 lines of Go!",
+        "B": "Create your own Blockchain by building it in Go Language.",
+        "C": "https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc",
+        "D": "Intermediate"
+    }, {
+        "A": "A blockchain in 200 lines of code in Javascript",
+        "B": "Create your own Blockchain by building it in Javascript.",
+        "C": "https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54",
+        "D": "Intermediate"
+    }, {
+        "A": "Writing a tiny blockchain in JavaScript",
+        "B": "Another practical tutorial on building your own Blockchain!",
+        "C": "https://www.savjee.be/2017/07/Writing-tiny-blockchain-in-JavaScript/",
+        "D": "Intermediate"
+    }, {
+        "A": "A Practical Introduction to Blockchain with Python",
+        "B": "The goal of this blog post is to give you a practical introduction to blockchain technology.",
+        "C": "http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/",
+        "D": "Intermediate"
+    }, {
+        "A": "Let's build a blockchain! — A mini-cryptocurrency in Ruby (Haseeb Qureshi)",
+        "B": "A Youtube video on building a Blockchain in Ruby. Check Description of video for Github repo with code!",
+        "C": "https://www.youtube.com/watch?v=3aJI1ABdjQk&feature=youtu.be&t=17m23s",
+        "D": "Advanced"
+    }, {
+        "A": "Awesome Blockchain",
+        "B": "Curated list of blockchain services and exchanges",
+        "C": "https://awesomeopensource.com/project/imbaniac/awesome-blockchain",
+        "D": "Resource"
+    }, {
+        "A": "Awesome Blockchain",
+        "B": "Curated list of resources for the development and applications of block chain.",
+        "C": "https://github.com/yjjnls/awesome-blockchain",
+        "D": "Resource"
+    }]
+}

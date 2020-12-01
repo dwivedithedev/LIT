@@ -1,0 +1,78 @@
+{
+    "Sheet1": [{
+        "A": "Get started with Raspberry Pi",
+        "B": "Set up your Raspberry Pi and see what it can do!",
+        "C": "https://projects.raspberrypi.org/en/pathways/getting-started-with-raspberry-pi",
+        "D": "Beginner"
+    }, {
+        "A": "Getting Started With Arduino",
+        "B": "In this Instructable, we'll be learning the basics of the Arduino microcontroller.",
+        "C": "https://www.instructables.com/id/Getting-Started-with-Arduino-3/",
+        "D": "Beginner"
+    }, {
+        "A": "Arduino Uno For Beginners",
+        "B": "This tutorial is a high level view of all the parts and pieces of the Arduino ecosystem.",
+        "C": "https://www.makerspaces.com/arduino-uno-tutorial-beginners/",
+        "D": "Beginner"
+    }, {
+        "A": "Tutorials and Resource from Arduino's official site",
+        "B": "From Built-in examples to Libraries usage and tutorials, This is great beginner resource.",
+        "C": "https://www.arduino.cc/en/Tutorial/HomePage",
+        "D": "Beginner"
+    }, {
+        "A": "Home Automation Using Google Assistant",
+        "B": "This includes creating Adafruit account then linking to IFTTT website then adding to Google Assistant for voice commands.",
+        "C": "https://www.hackster.io/pawan-kumar3/home-automation-using-google-assistant-88c5c8",
+        "D": "Intermediate"
+    }, {
+        "A": "How to use a Raspberry Pi Fingerprint Sensor for Authentication",
+        "B": "How to use a Raspberry Pi Fingerprint Sensor for Authentication",
+        "C": "https://tutorials-raspberrypi.com/how-to-use-raspberry-pi-fingerprint-sensor-authentication/",
+        "D": "Intermediate"
+    }, {
+        "A": "Automation of Lights and Fan using Google Assistant and Bolt",
+        "B": "Voice control your fan and lights using Google Assistant.",
+        "C": "https://www.hackster.io/kraishwary16/automation-of-lights-and-fan-using-google-assistant-and-bolt-aa7c00",
+        "D": "Intermediate"
+    }, {
+        "A": "How to Build a Raspberry Pi Twitter Bot",
+        "B": "Learn how to set up a basic low-cost Raspberry Pi Twitter Bot utilizing the Python programming language.",
+        "C": "https://pimylifeup.com/category/projects/intermediate/",
+        "D": "Intermediate"
+    }, {
+        "A": "Awesome Raspberry Pi",
+        "B": "A resource for deep dive into everything Raspberry Pi.",
+        "C": "https://github.com/thibmaek/awesome-raspberry-pi",
+        "D": "Advanced"
+    }, {
+        "A": "Sonus",
+        "B": "(speech to text) for Node.js with offline hotword detection.",
+        "C": "https://github.com/evancohen/sonus",
+        "D": "Advanced"
+    }, {
+        "A": "Rhasspy Voice Assistant",
+        "B": "Open source, fully offline set of voice assistant services that works well with Home Assistant, Node-RED, MQTT and more.",
+        "C": "https://rhasspy.readthedocs.io/en/latest/#learn-more",
+        "D": "Advanced"
+    }, {
+        "A": "Garage Door Opener",
+        "B": "Go implementation of a Raspberry Pi garage door opener",
+        "C": "https://github.com/benjefferies/gogo-garage-opener",
+        "D": "Advanced"
+    }, {
+        "A": "Hackster IO",
+        "B": "A great community and resource for learning about automation.",
+        "C": "https://www.hackster.io/home-automation?ref=topnav",
+        "D": "Resource"
+    }, {
+        "A": "Awesome Automation",
+        "B": "A List of services which offers automation in various aspects.",
+        "C": "https://github.com/croqaz/awesome-automation",
+        "D": "Resource"
+    }, {
+        "A": "Pi My Life Up",
+        "B": "150+ DIY Projects and Tutorials with Arduino",
+        "C": "https://pimylifeup.com/",
+        "D": "Resource"
+    }]
+}
