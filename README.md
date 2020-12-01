@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://learningin.tech/">
-    <img src="https://learningin.tech/logo.c5310d87.png" alt="LIT logo" width="300" />
+    <img src="https://raw.githubusercontent.com/dwivedithedev/LIT/master/src/img/logo.png" alt="LIT logo" width="150" />
   </a>
 </p>
 
