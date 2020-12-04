@@ -35,14 +35,14 @@ LearningIn.Tech is an open source project made for and by learners in tech. worl
 Have a better resource? You can also contribute to one of these categories.
 
 ## How to contribute?
-- Make a pull request
+- Fork the repository from the top-right.
 - Open the `data` folder and choose the category in which you want to contribute.
 - Add your resource in the following part, AT THE END OF THE DOCUMENT,
 ```
 A: <Name of your resource>
 B: <Short one-liner description about the resource>
 C: <Link to the resource>
-D: KDifficulty level, Beginner, Intermediate or Advanced>
+D: <Difficulty level, Beginner, Intermediate or Advanced>
 ```
 - Submit your pull request. That's it! 🥳
 
