@@ -83,7 +83,7 @@
       <!-- Header Component-->
       <div class="font-inter flex flex-grow h-auto justify-center items-center py-10">
           <div class="text-center">
-              <a href="/"><p class="text-5xl font-bold text-blue-400">Learning in Tech</p></a>
+              <a href="/"><p class="text-5xl font-bold text-blue-700">Learning in Tech</p></a>
             <p class="text-3xl m-2">
               <strong>Game Development</strong>
             </p>

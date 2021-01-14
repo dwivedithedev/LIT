@@ -82,12 +82,12 @@
 			All of the resources listed here handpicked & curated by humans. 
 			<br/>You can also contribute and support the open source project. Thank you <span role="img">💙</span>.
 		  </p>
-		  <button
-          type="button"
-          class="border border-blue-500 text-blue-500 rounded-md px-4 py-2 m-2 transition duration-500 ease select-none hover:text-white hover:bg-blue-500 focus:outline-none focus:shadow-outline"
-		>
-		<a href="https://github.com/dwivedithedev/LIT" target="_blank">Support the project on Github</a>
-		</button>
+		<button
+		type="button"
+		class="border border-blue-500 text-blue-500 rounded-md px-4 py-2 m-2 transition duration-500 ease select-none hover:text-white hover:bg-blue-500 focus:outline-none focus:shadow-outline"
+	  >
+	  <a href="https://dev.to/thevediwho/how-to-start-contributing-in-open-source-with-learningin-tech-5acn" target="_blank">How to contribute in open source?</a>
+	  </button>
 		</div>
 	</div>
   <div class="p-50">
