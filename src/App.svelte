@@ -10,6 +10,7 @@ The main.js loads the App.svelte where Home component by default because it is o
       import { Router, Link, Route } from "svelte-routing";
 
       import Home from './Home.svelte';
+      import Tracker from './Tracker.svelte';
       import About from './About.svelte';
       import AugmentedReality from './AugmentedReality.svelte';
       import VirtualReality from './VirtualReality.svelte';
@@ -31,6 +32,7 @@ The main.js loads the App.svelte where Home component by default because it is o
 <Router>
   <div>
     <Route path="/" component="{Home}" />
+    <Route path="/tracker" component="{Tracker}" />
     <Route path="/AugmentedReality" component="{AugmentedReality}" />
     <Route path="/About" component="{About}" />
     <Route path="/VirtualReality" component="{VirtualReality}" />
