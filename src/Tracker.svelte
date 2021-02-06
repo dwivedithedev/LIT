@@ -32,6 +32,7 @@
 </style>
 <script>
     import {onMount} from 'svelte';
+    import Footer from './Footer.svelte';
 
     let yes = false;
     let day,tweetcontent;
@@ -126,7 +127,7 @@
                         </label>
                     </div>
                 </div>
-                <div><div class='text-md m-4 font-semibold text-white'>Powered by <a href='https://gum.co/learningkit'>LearningInTech Kit</a></div></div>
+                <div><div class='text-md m-4 font-semibold text-white'>Powered by <a href='http://learningin.tech/'>LearningInTech</a></div></div>
             </div>
             
             </div>
@@ -196,5 +197,8 @@
           <span on:click={bookmark} class="float-btn bg-blue-500 rounded-full font-bold text-white px-4 py-3 transition duration-300 ease-in-out hover:bg-blue-600 mr-6">
             Bookmark this!
           </span>
+    </div>
+    <div id="footer">
+        <Footer/>
     </div>
 </div>
