@@ -77,16 +77,17 @@
           <p class="text-3xl mt-2">
             <strong>About the Mission</strong>
           </p>
-          <p class="textBox font-normal text-2xl mt-2 m-5">
-			LearningIn.Tech is an open source project made for and by learners in tech. world whose aim is to build a resource of the best, high quality and free resources to learn new technologies. 
+          <p class="textBox font-normal max-w-xl text-justify text-2xl mt-2 m-5">
+			LearningIn.Tech is an open source project made for and by learners in the world of technology whose aim is to build a resource of the best, high quality and free resources to learn new technologies. 
 			All of the resources listed here handpicked & curated by humans. 
-			<br/>You can also contribute and support the open source project. Thank you <span role="img">💙</span>.
+			<br/><br/>You can also contribute and support the open source project. 
+			<br/><br/>Thank you <span role="img">💙</span>.
 		  </p>
 		<button
 		type="button"
 		class="border border-blue-500 text-blue-500 rounded-md px-4 py-2 m-2 transition duration-500 ease select-none hover:text-white hover:bg-blue-500 focus:outline-none focus:shadow-outline"
 	  >
-	  <a href="https://dev.to/thevediwho/how-to-start-contributing-in-open-source-with-learningin-tech-5acn" target="_blank">How to contribute in open source?</a>
+	  <a href="https://dev.to/thevediwho/how-to-start-contributing-in-open-source-with-learningin-tech-5acn" target="_blank">Contribute to Learningin.tech</a>
 	  </button>
 		</div>
 	</div>

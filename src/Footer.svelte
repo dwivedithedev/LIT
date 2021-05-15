@@ -1,15 +1,3 @@
-<svelte:head>
-    <script src="https://gumroad.com/js/gumroad.js"></script>
-</svelte:head>
-<script>
-(function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
-var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
-f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
-var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
-_.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
-
-var ml_account = ml('accounts', '2655230', 'm6g9l4x6y2', 'load');
-</script>
 <div>
 
    <!-- component -->
@@ -46,20 +34,6 @@ var ml_account = ml('accounts', '2655230', 'm6g9l4x6y2', 'load');
         </div>
     </div>
 </footer-->
-
-<div class="py-20 bg-white border-blue-500 border-current">
-    <div class="px-4 mx-auto text-center max-w-7xl sm:px-6 lg:px-8">
-      <h2 class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl md:text-5xl xl:text-6xl" id="">Looking for more resources?</h2>
-      <p class="max-w-md mx-auto mt-3 text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl" id="">Take a look at the <span class="font-bold">LearningInTech Kit</span> which offers learning resources as well resources for communities, job boards, tools and libraries for each technology!</p>
-      <div class="flex justify-center mt-8">
-        <div class="inline-flex ml-3">
-          <a href="https://gum.co/learningkit" class="inline-flex items-center justify-center px-5 py-3 text-base font-medium text-blue-700 bg-indigo-100 border border-transparent rounded-md hover:bg-indigo-200" id="">
-            Learn more
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
           
 <footer class="bg-white">
     <div class="max-w-screen-xl px-4 py-12 mx-auto space-y-8 overflow-hidden sm:px-6 lg:px-8">
@@ -117,7 +91,7 @@ var ml_account = ml('accounts', '2655230', 'm6g9l4x6y2', 'load');
                 </svg>
             </a>
         </div>
-        <a href="/"><p class="mt-8 text-base leading-6 text-center text-gray-400">An Open Source Initiative.</p></a>
+        <p class="mt-8 text-base leading-6 text-center text-gray-400">An Open Source Initiative by <a href="http://thelesson.club/"><span class="text-gray-700">TheLesson.club 🦉</span></a></p>
     </div>
 </footer>
 </div>

@@ -91,6 +91,9 @@
               <strong>Internet of Things </strong> describes the network of physical objects — “things” — that are embedded with sensors, software, and 
               other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet. <a class="text-blue-700" href="https://en.wikipedia.org/wiki/Internet_of_things">(wiki.)</a><br/>
                 Here is the list of top resources you can access to get started with {name}.
+                <br />
+              <br />
+              <strong>Start learning {name} with <a class="text-blue-700" href='/tracker'>LIT Tracker.</a></strong>
             </p>
             <button class="bg-green hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow" on:click={()=>{ resources = resBeginners }}>
               Beginner
@@ -128,8 +131,10 @@
     </div>
   
     <!-- Add resource and share button-->
-    <ShareSubmit cat={name} />
-    <div class="p-50">
+    <!-- ShareSubmit cat={name} -->
+    <div class="p-50 text-center">
+      <div class="font-semibold text-xl">Edit this on <a class="text-blue-700" href='https://github.com/dwivedithedev/LIT/blob/master/src/data/iot.json'>Github.</a></div>
+      <CTA />
       <Footer/>
     </div>
   </div>

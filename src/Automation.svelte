@@ -89,6 +89,9 @@
           <p class="textBox text-lg mt-2 m-5">
             <strong>{name}</strong> is the technology by which a process or procedure is performed with minimal human assistance. <a class="text-blue-700" href="https://en.wikipedia.org/wiki/Automation">(wiki.)</a><br/>
             This list covers learning about Automation with IoT, Raspberry Pi, Arduino etc. for you to get started in this field. <br/>Here is the list of top resources you can access to get started with {name}.
+            <br />
+            <br />
+            <strong>Start learning {name} with <a class="text-blue-700" href='/tracker'>LIT Tracker.</a></strong>
           </p>
           <button class="bg-green hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow" on:click={()=>{ resources = resBeginners }}>
             Beginner
@@ -126,8 +129,10 @@
   </div>
 
     <!-- Add resource and share button-->
-    <ShareSubmit cat={name} />
-    <div class="p-50">
+    <!-- ShareSubmit cat={name} -->
+    <div class="p-50 text-center">
+      <div class="font-semibold text-xl">Edit this on <a class="text-blue-700" href='https://github.com/dwivedithedev/LIT/blob/master/src/data/automation.json'>Github.</a></div>
+      <CTA />
       <Footer/>
     </div>
   </div>

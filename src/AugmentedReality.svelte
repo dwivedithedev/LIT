@@ -92,6 +92,9 @@
               where the objects that reside in the real world are enhanced by computer-generated perceptual information, 
               sometimes across multiple sensory modalities, including visual, auditory, haptic, somatosensory and olfactory. <a class="text-blue-700" href="https://en.wikipedia.org/wiki/Augmented_reality">(wiki.)</a><br/>
               Here is the list of top resources you can access to get started with Augmented Reality.
+              <br />
+              <br />
+              <strong>Start learning {name} with <a class="text-blue-700" href='/tracker'>LIT Tracker.</a></strong>
           </p>
           <button class="bg-green hover:bg-green-100 text-gray-800 font-semibold py-2 px-4 border border-gray-400 rounded shadow" on:click={()=>{ resources = resBeginners }}>
             Beginner
@@ -129,8 +132,10 @@
   </div>
 
     <!-- Add resource and share button-->
-    <ShareSubmit cat={name} />
-    <div class="p-50">
+    <!-- ShareSubmit cat={name} -->
+    <div class="p-50 text-center">
+      <div class="font-semibold text-xl">Edit this on <a class="text-blue-700" href='https://github.com/dwivedithedev/LIT/blob/master/src/data/ar.json'>Github.</a></div>
+      <CTA />
       <Footer/>
     </div>
   </div>
