@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://learningin.tech/">
+  <a href="https://learningintech.vercel.app/">
     <img src="https://raw.githubusercontent.com/dwivedithedev/LIT/master/src/img/logo.png" alt="LIT logo" width="150" />
   </a>
 </p>
@@ -9,7 +9,7 @@
 
 <br />
 
-LearningIn.Tech is an open source project made for and by learners in tech. world whose aim is to build a resource of the best, high quality and free resources to learn new technologies. All of the resources listed here handpicked & curated by humans.
+LearningInTech is an open source project made for and by learners in tech. world whose aim is to build a resource of the best, high quality and free resources to learn new technologies. All of the resources listed here handpicked & curated by humans.
 
 ## Features ✨
 
